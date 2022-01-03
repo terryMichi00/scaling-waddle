@@ -1,4 +1,4 @@
-# YAFOT - Facebook
+# Framebot - Facebook
 Yet Another Frame-bOT for facebook. As the name suggests, this is a command-line tool to spam video-frames or images in social media. This is the facebook version. Written in python3, uses facebok API to create posts.
 
 Bot is mainly created to post in _Every Frame in Order_ pages, but can be used for similar other posting and spamming. If you don't know about this type of facebook pages, check the links below for example.
