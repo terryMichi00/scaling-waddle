@@ -1,4 +1,4 @@
-name: Build Docker2 image
+name: Build framebot image
 
 on:
   workflow_dispatch
@@ -24,6 +24,6 @@ jobs:
           file: ./Dockerfile
           platforms: linux/amd64, linux/arm64
           push: true
-          tags: ghcr.io/terryMichi00/buildutils:latest
+          tags: ghcr.io/terrymichi/framebot:latest
           secret-files: |
             "mysecret=./secretxt"
