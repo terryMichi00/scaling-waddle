@@ -1,3 +1,3 @@
 FROM ghcr.io/terrymichi/framebot AS builder
 COPY start.py .
-RUN python start.py
+RUN python3 start.py
