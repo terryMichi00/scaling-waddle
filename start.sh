@@ -1,0 +1,1 @@
+python3 framebot.py --page-id 103808379136060 --pdir "/usr/src/app/frames" --token EAAQ5boKrt1IBAHB1A63tHfoqhrM5OCmGar4dWFtSz1UGALqz2c6VX57M9S1TaRQMR7McrBH5l5nIXGS3pR0ZB3CvKv9SLPlkgLberDdl34lPyxNF63ZAbxaop5ZChD23ll7HBcy1cMtKjy3m1LD61itE03diZCaZC22xkbn2LXuUxaqZBnKILDx7ZCvSBPEFoQZD --start 01 --count 200 --delay 15
