@@ -1,3 +1,4 @@
 FROM ghcr.io/terrymichi/framebot AS builder
 COPY start.py .
-RUN python3 start.py
+COPY start.sh
+CMD ['bash','start.sh']
